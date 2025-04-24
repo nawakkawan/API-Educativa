@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getdicas } from '../Controller/dicas.controller.js';
+import { getdicas } from '../Controllers/dicas.controller.js';
 
 const router = Router();
 

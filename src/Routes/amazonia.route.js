@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getamazonia } from '../Controller/amazonia.controller.js';
+import { getamazonia } from '../Controllers/amazonia.controller.js';
 
 const router = Router();
 
