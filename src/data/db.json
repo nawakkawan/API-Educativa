@@ -1,0 +1,24 @@
+{
+    "amazonia": [
+        { "ano": 2018, "hectaresDesmatados": 4295 },
+        { "ano": 2019, "hectaresDesmatados": 5057 },
+        { "ano": 2020, "hectaresDesmatados": 6543 },
+        { "ano": 2021, "hectaresDesmatados": 10476 },
+        { "ano": 2022, "hectaresDesmatados": 10781 }
+    ],
+    "dicas": [
+      "Desligue aparelhos da tomada quando não estiver usando.",
+    "Prefira transporte público ou bicicleta.",
+    "Reduza o consumo de plástico descartável.",
+    "Compre produtos com embalagens recicláveis.",
+    "Evite desperdício de alimentos, aproveite integralmente os alimentos."
+    ],
+    "livros": [
+        { "titulo": "Primavera Silenciosa", "autor": "Rachel Carson" },
+        { "titulo": "Colapso", "autor": "Jared Diamond" },
+        { "titulo": "Meio Ambiente e Sustentabilidade", "autor": "José Eli da Veiga" },
+        { "titulo": "O Futuro da Vida", "autor": "Edward O. Wilson" },
+        { "titulo": "A Terra Inabitável", "autor": "David Wallace-Wells" }
+    ]
+  }
+  
